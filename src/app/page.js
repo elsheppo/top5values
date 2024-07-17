@@ -1,5 +1,3 @@
-"use client";
-
 import ValuesJourney from '@/components/ValuesJourney';
 
 export default function Home() {

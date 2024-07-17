@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState } from 'react';
 import { RefreshCw, Check, X, ArrowLeft, ArrowUp, ArrowDown, Edit, SkipForward, Share2, Search } from 'lucide-react';
 import { Card, CardContent } from "@/components/ui/card";
